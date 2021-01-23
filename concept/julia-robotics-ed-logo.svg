@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="julia-robotics-ed-logo.svg"
+   inkscape:export-filename="/home/pranshumalik14/Documents/projects/JuliaRoboticsEd/logo-graphics/concept/julia-robotics-ed-logo_512_by_512.png"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-ydpi="96.000008">
+  <title
+     id="title3715">JuliaRoboticsEd Logo Concept</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2313"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#1b7c17;stop-opacity:1;"
+         offset="0"
+         id="stop2311" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8922"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#228b22;stop-opacity:1;"
+         offset="0"
+         id="stop8920" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2313"
+       id="linearGradient2315"
+       x1="4.1481742"
+       y1="212.33331"
+       x2="128.1435"
+       y2="212.33331"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="242.83238"
+     inkscape:cy="384.05327"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     showguides="false"
+     inkscape:window-width="937"
+     inkscape:window-height="1023"
+     inkscape:window-x="983"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:snap-grids="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-others="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3751" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>JuliaRoboticsEd Logo Concept</dc:title>
+        <dc:date>22 January 2021</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Pranshu Malik</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://artlibre.org/licence/lal" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://artlibre.org/licence/lal">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-161.53331)">
+    <rect
+       style="fill:url(#linearGradient2315);fill-opacity:1;stroke:#dede40;stroke-width:2.287;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect829"
+       width="121.70833"
+       height="63.5"
+       x="5.2916741"
+       y="180.58331" />
+    <rect
+       style="fill:#aaaaaa;fill-opacity:1;stroke:#979797;stroke-width:1.38700783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9047-7-9-6-2"
+       width="15.052478"
+       height="4.1304002"
+       x="-299.33994"
+       y="-35.368252"
+       transform="matrix(-0.52047116,-0.85387925,0.85138702,-0.52453802,0,0)" />
+    <rect
+       style="fill:#aaaaaa;fill-opacity:1;stroke:#979797;stroke-width:1.38700783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9047-7-9-6"
+       width="15.052478"
+       height="4.1304002"
+       x="-299.69528"
+       y="-53.313133"
+       transform="matrix(-0.52047116,-0.85387925,0.85138702,-0.52453802,0,0)" />
+    <rect
+       style="fill:#aaaaaa;fill-opacity:1;stroke:#979797;stroke-width:1.38700032;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9047-7-9-3"
+       width="60.689026"
+       height="27.119925"
+       x="131.90289"
+       y="-159.187"
+       transform="matrix(-0.48014995,0.87718643,-0.87673002,-0.48098281,0,0)" />
+    <rect
+       style="fill:#aaaaaa;fill-opacity:1;stroke:#979797;stroke-width:1.38700032;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9047-7-9-3-6"
+       width="60.68903"
+       height="27.119925"
+       x="197.11124"
+       y="17.485464"
+       transform="matrix(0.48642003,0.8737251,-0.87418667,0.48559002,0,0)" />
+    <rect
+       style="fill:#aaaaaa;fill-opacity:1;stroke:#979797;stroke-width:1.38700783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9047-7-9"
+       width="15.052478"
+       height="4.1304002"
+       x="-284.46686"
+       y="-44.270267"
+       transform="matrix(-0.52047116,-0.85387925,0.85138703,-0.52453801,0,0)" />
+    <rect
+       style="fill:#aaaaaa;fill-opacity:1;stroke:#979797;stroke-width:1.38699996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9047-7"
+       width="21.166666"
+       height="27.119772"
+       x="249.22006"
+       y="-45.818501"
+       transform="rotate(90.000077)" />
+    <rect
+       style="fill:#aaaaaa;fill-opacity:1;stroke:#979797;stroke-width:1.387;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9047"
+       width="52.916676"
+       height="18.520836"
+       x="5.7999349"
+       y="270.1221" />
+    <path
+       style="fill:#cb3c33;fill-opacity:1;stroke:#e13333;stroke-width:2.93623877;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 29.935849,257.51339 c -4.262869,-0.72641 -8.137751,-3.65013 -10.100258,-7.621 -1.04795,-2.12038 -1.14869,-2.55882 -1.244889,-5.418 -0.121315,-3.60552 0.402454,-5.54693 2.245662,-8.32383 3.780206,-5.69513 11.562815,-7.64513 17.804211,-4.46101 1.771635,0.90382 4.599962,3.67147 5.554548,5.43537 1.938804,3.58257 2.278585,8.12199 0.882609,11.79153 -2.232929,5.86959 -8.9077,9.65926 -15.141883,8.59694 z"
+       id="path8107-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#389826;fill-opacity:1;stroke:#228b22;stroke-width:2.93623877;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 64.331682,196.65922 c -4.262868,-0.72641 -8.137751,-3.65013 -10.100257,-7.621 -1.047951,-2.12038 -1.148691,-2.55882 -1.24489,-5.418 -0.121315,-3.60552 0.402454,-5.54693 2.245663,-8.32383 3.780206,-5.69513 11.562814,-7.64513 17.804214,-4.46101 1.77163,0.90382 4.59996,3.67147 5.55455,5.43537 1.9388,3.58257 2.27858,8.12199 0.8826,11.79153 -2.23293,5.86959 -8.9077,9.65926 -15.14188,8.59694 z"
+       id="path8107-7-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#9558b2;fill-opacity:1;stroke:#c852e1;stroke-width:2.93600011;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 98.727519,257.51339 c -4.262875,-0.72641 -8.137752,-3.65013 -10.100262,-7.621 -1.04795,-2.12038 -1.14869,-2.55882 -1.244889,-5.418 -0.121315,-3.60552 0.402459,-5.54693 2.245659,-8.32383 3.780207,-5.69513 11.562823,-7.64513 17.804223,-4.46101 1.77163,0.90382 4.59996,3.67147 5.55455,5.43537 1.9388,3.58257 2.27858,8.12199 0.8826,11.79153 -2.23293,5.86959 -8.9077,9.65926 -15.141881,8.59694 z"
+       id="path8107-7-3-5"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#aaaaaa;fill-opacity:1;stroke:#979797;stroke-width:1.38701284;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9047-7-9-0"
+       width="21.939672"
+       height="4.0757008"
+       x="37.615673"
+       y="-287.95886"
+       transform="matrix(-0.84540026,0.53413332,-0.53925783,-0.84214072,0,0)" />
+    <circle
+       style="fill:#4063db;fill-opacity:1;stroke:#4169d2;stroke-width:1.38699996;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path827"
+       cx="117.73959"
+       cy="274.51041"
+       r="5.2916665" />
+  </g>
+</svg>
